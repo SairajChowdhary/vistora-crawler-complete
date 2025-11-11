@@ -57,7 +57,6 @@ Status: ████████████████████ 100% Comple
 
 <div align="center">
 
-![Coding Cat](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 
 </div>
 
@@ -104,7 +103,6 @@ python main.py --url "https://example.com" --depth 3
 
 <div align="center">
 
-![Success Dog](https://media.giphy.com/media/artj92V8o75VPL7AeQ/giphy.gif)
 
 </div>
 
@@ -210,7 +208,6 @@ vistora-crawler-complete/
 
 <div align="center">
 
-![Working Cat](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 
 </div>
 
@@ -243,7 +240,6 @@ vistora-crawler-complete/
 | 🐕 **Dog** | Quality Assurance | ![Testing](https://img.shields.io/badge/Status-Testing-yellow?style=flat-square) |
 | 🦊 **Fox** | Performance Optimizer | ![Optimizing](https://img.shields.io/badge/Status-Optimizing-orange?style=flat-square) |
 
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="400" alt="Coding Animals">
 
 </div>
 
@@ -255,7 +251,6 @@ vistora-crawler-complete/
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=E74C3C&center=true&vCenter=true&width=500&lines=Join+our+amazing+team!+%F0%9F%8E%89;Contributions+are+welcome!)](https://git.io/typing-svg)
 
-![Contributing Cat](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif)
 
 </div>
 
