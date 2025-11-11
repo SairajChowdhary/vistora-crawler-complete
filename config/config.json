@@ -1,0 +1,8 @@
+{
+  "jdbcUrl": "jdbc:mysql://localhost:3306/vistora_demo?useSSL=false&serverTimezone=UTC",
+  "username": "root",
+  "password": "password",
+  "schemas": [],
+  "generateRuntimeClasses": true,
+  "packageName": "com.vistora.generated"
+}
