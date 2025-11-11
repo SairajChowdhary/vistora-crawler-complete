@@ -8,7 +8,7 @@
 [![Web Scraping](https://img.shields.io/badge/Web-Scraping-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/SairajChowdhary/vistora-crawler-complete)
 [![Automation](https://img.shields.io/badge/Automation-Enabled-4CAF50?style=for-the-badge&logo=robot&logoColor=white)](https://github.com/SairajChowdhary/vistora-crawler-complete)
 
-*A powerful and intelligent web crawler built to extract, analyze, and organize web data efficiently* 🚀
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&width=800&height=100&lines=A+powerful+and+intelligent+web+crawler+%F0%9F%95%B7%EF%B8%8F;Extract%2C+analyze%2C+and+organize+web+data+efficiently+%F0%9F%9A%80;Built+with+Python+%E2%9D%A4%EF%B8%8F+and+modern+scraping+tools)](https://git.io/typing-svg)
 
 [Features](#-features) • [Installation](#-installation) • [Usage](#-usage) • [Demo](#-demo) • [Contributing](#-contributing)
 
@@ -20,6 +20,10 @@
 
 <div align="center">
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=F7B801&center=true&vCenter=true&width=600&lines=%E2%9A%A1+Lightning+Fast+Asynchronous+Crawling;%F0%9F%8E%AF+Smart+AI-Powered+Parsing;%F0%9F%94%84+Auto-Retry+Mechanism;%F0%9F%93%8A+Multiple+Export+Formats;%F0%9F%9B%A1%EF%B8%8F+Rate+Limiting+Protection;%F0%9F%94%8D+Deep+Recursive+Crawling)](https://git.io/typing-svg)
+
+</div>
+
 | Feature | Description |
 |---------|-------------|
 | ⚡ **Lightning Fast** | Asynchronous crawling for maximum speed |
@@ -29,11 +33,15 @@
 | 🛡️ **Rate Limiting** | Respectful crawling with configurable delays |
 | 🔍 **Deep Crawling** | Recursive link following with depth control |
 
-</div>
-
 ---
 
 ## 🎬 Demo
+
+<div align="center">
+
+![Spider GIF](https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif)
+
+</div>
 
 ```
 🕷️ Vistora Crawler v1.0
@@ -47,9 +55,21 @@
 Status: ████████████████████ 100% Complete ✓
 ```
 
+<div align="center">
+
+![Coding Cat](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
+
+</div>
+
 ---
 
 ## 🚀 Quick Start
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Ready+to+start+crawling%3F+%F0%9F%95%B8%EF%B8%8F;Follow+these+simple+steps!)](https://git.io/typing-svg)
+
+</div>
 
 ### Prerequisites
 
@@ -81,6 +101,12 @@ cp config.example.json config.json
 ```bash
 python main.py --url "https://example.com" --depth 3
 ```
+
+<div align="center">
+
+![Success Dog](https://media.giphy.com/media/artj92V8o75VPL7AeQ/giphy.gif)
+
+</div>
 
 ---
 
@@ -144,6 +170,12 @@ vistora-crawler-complete/
 
 ## ⚙️ Configuration Options
 
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=FF6B6B&center=true&vCenter=true&width=500&lines=Customize+your+crawler+settings+%F0%9F%94%A7;Flexible+configuration+options!)](https://git.io/typing-svg)
+
+</div>
+
 | Parameter | Type | Default | Description |
 |-----------|------|---------|-------------|
 | `start_url` | string | - | Starting URL for crawling |
@@ -160,18 +192,25 @@ vistora-crawler-complete/
 
 <div align="center">
 
-```mermaid
-graph LR
-    A[Start URL] --> B{Parse Page}
-    B --> C[Extract Links]
-    B --> D[Extract Data]
-    C --> E{Within Depth?}
-    E -->|Yes| F[Add to Queue]
-    E -->|No| G[Skip]
-    F --> B
-    D --> H[Store Data]
-    H --> I[Export Results]
-```
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4CAF50&center=true&vCenter=true&width=600&lines=%F0%9F%93%88+Crawler+Workflow+Visualization;Start+%E2%9E%A1%EF%B8%8F+Parse+%E2%9E%A1%EF%B8%8F+Extract+%E2%9E%A1%EF%B8%8F+Store)](https://git.io/typing-svg)
+
+![Workflow Diagram](https://via.placeholder.com/800x400/0D1117/36BCF7?text=Start+URL+%E2%86%92+Parse+Page+%E2%86%92+Extract+Links+%26+Data+%E2%86%92+Queue+Processing+%E2%86%92+Store+Results+%E2%86%92+Export)
+
+</div>
+
+**Workflow Steps:**
+1. 🎯 **Start URL** → Feed initial URL to crawler
+2. 🔍 **Parse Page** → Extract HTML content and metadata
+3. 🔗 **Extract Links** → Find all internal/external links
+4. 📦 **Extract Data** → Parse structured data from page
+5. ✅ **Depth Check** → Verify if within crawl depth limit
+6. 📋 **Add to Queue** → Queue new URLs for processing
+7. 💾 **Store Data** → Save extracted information
+8. 📤 **Export Results** → Generate final output files
+
+<div align="center">
+
+![Working Cat](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 
 </div>
 
@@ -186,11 +225,39 @@ graph LR
 ![Requests](https://img.shields.io/badge/Requests-FF6B6B?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&pause=1000&color=9B59B6&center=true&vCenter=true&width=600&lines=Powered+by+modern+Python+libraries+%F0%9F%90%8D;Efficient+%E2%80%A2+Reliable+%E2%80%A2+Fast)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+## 🐾 Animal Mascots
+
+<div align="center">
+
+| Mascot | Role | Status |
+|--------|------|--------|
+| 🕷️ **Spider** | Lead Crawler | ![Working](https://img.shields.io/badge/Status-Crawling-success?style=flat-square) |
+| 🐍 **Python** | Backend Developer | ![Active](https://img.shields.io/badge/Status-Active-success?style=flat-square) |
+| 🐱 **Cat** | Code Reviewer | ![Reviewing](https://img.shields.io/badge/Status-Reviewing-blue?style=flat-square) |
+| 🐕 **Dog** | Quality Assurance | ![Testing](https://img.shields.io/badge/Status-Testing-yellow?style=flat-square) |
+| 🦊 **Fox** | Performance Optimizer | ![Optimizing](https://img.shields.io/badge/Status-Optimizing-orange?style=flat-square) |
+
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="400" alt="Coding Animals">
+
 </div>
 
 ---
 
 ## 🤝 Contributing
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=E74C3C&center=true&vCenter=true&width=500&lines=Join+our+amazing+team!+%F0%9F%8E%89;Contributions+are+welcome!)](https://git.io/typing-svg)
+
+![Contributing Cat](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif)
+
+</div>
 
 Contributions are welcome! Here's how you can help:
 
@@ -210,6 +277,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=F39C12&center=true&vCenter=true&width=600&lines=Special+thanks+to+all+contributors+%F0%9F%99%8F;Built+with+%E2%9D%A4%EF%B8%8F+and+%E2%98%95;Inspired+by+web+scraping+best+practices)](https://git.io/typing-svg)
+
+![Thank You Dog](https://media.giphy.com/media/BzyTuYCmvSORqs1ABM/giphy.gif)
+
+</div>
+
 - Special thanks to all contributors
 - Inspired by modern web scraping best practices
 - Built with ❤️ by [Sairaj Chowdhary](https://github.com/SairajChowdhary)
@@ -223,7 +298,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [![GitHub](https://img.shields.io/badge/GitHub-SairajChowdhary-181717?style=for-the-badge&logo=github)](https://github.com/SairajChowdhary)
 [![Email](https://img.shields.io/badge/Email-dantevale333@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dantevale333@gmail.com)
 
-**⭐ Star this repo if you find it helpful!**
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=%E2%AD%90+Star+this+repo+if+helpful!+%E2%AD%90;Follow+for+more+projects!+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+![Star Animation](https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif)
 
 </div>
 
@@ -233,6 +310,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
 
-**Made with 💻 and ☕ by Sairaj Chowdhary**
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=600&lines=Made+with+%F0%9F%92%BB+and+%E2%98%95+by+Sairaj+Chowdhary;Happy+Crawling!+%F0%9F%95%B7%EF%B8%8F%F0%9F%8C%90)](https://git.io/typing-svg)
 
 </div>
