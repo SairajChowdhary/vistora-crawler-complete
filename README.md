@@ -192,7 +192,32 @@ vistora-crawler-complete/
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4CAF50&center=true&vCenter=true&width=600&lines=%F0%9F%93%88+Crawler+Workflow+Visualization;Start+%E2%9E%A1%EF%B8%8F+Parse+%E2%9E%A1%EF%B8%8F+Extract+%E2%9E%A1%EF%B8%8F+Store)](https://git.io/typing-svg)
 
-![Workflow Diagram](https://via.placeholder.com/800x400/0D1117/36BCF7?text=Start+URL+%E2%86%92+Parse+Page+%E2%86%92+Extract+Links+%26+Data+%E2%86%92+Queue+Processing+%E2%86%92+Store+Results+%E2%86%92+Export)
+# Workflow:
+🎯 START URL
+   │
+   ▼
+🔍 PARSE PAGE ────────┐
+   │                  │
+   ├──────────────────┤
+   │                  │
+   ▼                  ▼
+🔗 EXTRACT         📦 EXTRACT
+   LINKS              DATA
+   │                  │
+   ▼                  │
+✅ DEPTH CHECK        │
+   │                  │
+   ├─── YES ──────────┤
+   │                  │
+   ▼                  ▼
+📋 ADD TO          💾 STORE
+   QUEUE              DATA
+   │                  │
+   │                  ▼
+   │               📤 EXPORT
+   │                  RESULTS
+   │                  │
+   └─────► LOOP ◄─────┘
 
 </div>
 
