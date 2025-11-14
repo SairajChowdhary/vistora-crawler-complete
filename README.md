@@ -193,34 +193,6 @@ vistora-crawler-complete/
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4CAF50&center=true&vCenter=true&width=600&lines=%F0%9F%93%88+Crawler+Workflow+Visualization;Start+%E2%9E%A1%EF%B8%8F+Parse+%E2%9E%A1%EF%B8%8F+Extract+%E2%9E%A1%EF%B8%8F+Store)](https://git.io/typing-svg)
 
 # Workflow:
-🎯 START URL
-   │
-   ▼
-🔍 PARSE PAGE ────────┐
-   │                  │
-   ├──────────────────┤
-   │                  │
-   ▼                  ▼
-🔗 EXTRACT         📦 EXTRACT
-   LINKS              DATA
-   │                  │
-   ▼                  │
-✅ DEPTH CHECK        │
-   │                  │
-   ├─── YES ──────────┤
-   │                  │
-   ▼                  ▼
-📋 ADD TO          💾 STORE
-   QUEUE              DATA
-   │                  │
-   │                  ▼
-   │               📤 EXPORT
-   │                  RESULTS
-   │                  │
-   └─────► LOOP ◄─────┘
-
-</div>
-
 **Workflow Steps:**
 1. 🎯 **Start URL** → Feed initial URL to crawler
 2. 🔍 **Parse Page** → Extract HTML content and metadata
