@@ -144,10 +144,10 @@ crawler = Crawler(
 ```
 vistora-crawler-complete/
 │
-├── 📄 main.py              # Entry point
-├── 📄 crawler.py           # Core crawler logic
-├── 📄 parser.py            # Data parsing utilities
-├── 📄 exporter.py          # Data export functions
+├── 📄 main.java              # Entry point
+├── 📄 crawler.java           # Core crawler logic
+├── 📄 parser.java            # Data parsing utilities
+├── 📄 exporter.java          # Data export functions
 ├── 📄 config.json          # Configuration file
 ├── 📄 requirements.txt     # Python dependencies
 │
