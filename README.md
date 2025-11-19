@@ -36,13 +36,6 @@
 ---
 
 ## 🎬 Demo
-
-<div align="center">
-
-![Spider GIF](https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif)
-
-</div>
-
 ```
 🕷️ Vistora Crawler v1.0
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
